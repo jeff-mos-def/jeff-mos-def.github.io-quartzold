@@ -2,9 +2,7 @@
 title: PMP Fast Track
 draft: false
 date: 2025-03-21  
-tags:  
-    
-    
+tags:    
   - exam-prep  
   - situational-questions  
   - leadership  

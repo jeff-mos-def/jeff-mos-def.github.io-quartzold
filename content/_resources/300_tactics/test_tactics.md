@@ -2,9 +2,7 @@
 title: PMP Exam Tactics – What to Do and What to Avoid
 draft: false
 date: 2025-03-21
-tags:
-  
-  
+tags:  
   - exam-prep
   - leadership
   - decision-making
@@ -38,7 +36,7 @@ tags:
 ## Condensed podcast
 
 <audio controls style="width: 300px">
-  <source src="https://www.dropbox.com/scl/fi/jyowhuctxlvvom5386fcq/PMP-Exam-Tactics_-Dos-and-Don-ts.mp3?rlkey=aj6eawq2vilclqjv1i4yhb3xs&raw=1" type="audio/mpeg" />
+  <source src="https://audio.jukehost.co.uk/D8Jg5DhN9noFNUXMQyYSLlJAfCcVIzss" type="audio/mpeg" />
   Your browser does not support the audio element.
 </audio>
 

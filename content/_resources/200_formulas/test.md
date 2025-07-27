@@ -2,9 +2,7 @@
 title: PMP Formulas Cheat Sheet
 draft: false
 date: 2025-03-21
-tags:
-  
-  
+tags:  
   - exam-prep
   - formulas
 ---
