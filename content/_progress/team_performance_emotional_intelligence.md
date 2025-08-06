@@ -11,7 +11,7 @@ tags:
 # **53 days until PMP exam – 17 September 2025**
 
 ### Focus Topic  
-Promote team performance through the application of emotional intelligence. Reviewed how EI drives better decision-making, strengthens trust, and diffuses conflict. Emphasized adapting leadership style to emotional cues to sustain motivation and psychological safety within the team.  
+Promote team performance through the application of [[emotional_intelligence.md | emotional intelligence]], or EI. Reviewed how EI drives better decision-making, strengthens trust, and diffuses conflict. Emphasized adapting leadership style to emotional cues to sustain motivation and psychological safety within the team.  
 
 ### Key Question  
 How to apply emotional intelligence to resolve a conflict between two high-performing but disagreeing stakeholders. Explored balancing assertiveness with empathy, identifying underlying concerns, and facilitating a shared resolution that preserves relationships and project goals.  
