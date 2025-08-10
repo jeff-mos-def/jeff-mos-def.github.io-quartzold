@@ -7,6 +7,7 @@ All notable changes to this site will be documented in this file.
 ### 26 Jul 2025
 
 - Began documenting daily PMP study sessions based on progress through [PMI Study Hall](https://www.pmi.org/learning/exam-prep).
+   - All of these will be documented under the [_progress](https://jeff-mos-def.github.io/_progress/) section.
 
 ---
 
