@@ -1,4 +1,8 @@
-# Changelog
+---
+title: Changelog
+draft: false
+date: 2025-08-11
+---
 
 All notable changes to this site will be documented in this file.
 
