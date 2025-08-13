@@ -3,8 +3,6 @@ title: Nominal Group Technique (NGT)
 draft: false
 date: 2025-03-21
 tags:
-  
-  
   - decision-making
   - facilitation
 ---
@@ -41,4 +39,4 @@ An operations team applies NGT to **identify inefficiencies** and determine **wh
 - **Increases Engagement** – Encourages participation from all team members.
 - **Supports Complex Problem-Solving** – Helps manage large amounts of input efficiently.
 
-See also: [[Brainstorming]], [[Facilitation Techniques]], [[Decision-Making Models]], [[Delphi Technique]].
+See also: [[Brainstorming]], [[Facilitation Techniques]], [[Decision-Making Models]], [[delphi_technique.md | Delphi Technique]].
